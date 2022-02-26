@@ -1,0 +1,24 @@
+{
+  "name": "opuf-qube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/God-Osiris/Opuf-Qube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/God-Osiris/Opuf-Qube/issues"
+  },
+  "homepage": "https://github.com/God-Osiris/Opuf-Qube#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.2.3"
+  }
+}
